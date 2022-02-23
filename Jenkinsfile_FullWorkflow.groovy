@@ -15,3 +15,7 @@ node {
 			echo "Hello"
     }
 }
+	stage("Send Email){
+			echo "Hello"
+    }
+}
