@@ -13,7 +13,7 @@ tags = {
   Name        = "DEV_Project"
   Environment = "DEV"
   Team        = "DevOps"
-  Created_by  = "Farrukh"
+  Created_by  = "Tuncay"
   Department  = "IT"
   Bill        = "CFO"
 }
