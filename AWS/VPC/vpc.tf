@@ -1,5 +1,5 @@
 module "vpc" {
-  source       = "farrukh90/vpc/aws"
+  source       = "tuncaytas/vpc/aws"
   version      = "8.0.0"
   region       = var.vpc_config["region"]
   vpc_cidr     = var.vpc_config["vpc_cidr"]
